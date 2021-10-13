@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(241, 235, 235);
+}
+
+
+.carousel-caption{
+margin-bottom: 200px;
+}
+.carousel-item{
+    margin-bottom: 20px;
+    }
+    .carousel-caption h1{
+        font-weight: bold;
+        font-size: 56px;
+        color: black;
+    }
+    .carousel-caption p{
+        color: black;
+        font-size: 20px;
+      
+        font-style: italic;
+        font-weight: bold;
+    }
+    .carousel-caption p span{
+        color: rgb(16, 36, 211);
+        font-style: italic;
+        
+    }
+    .carousel-caption h2{
+        color: black;
+        font-size: 10px;
+        padding-bottom: 20px;
+    }
+
+    .container{
+        margin-bottom: 40px;
+        
+}
+.container h1{
+   font-style: oblique;
+}
+.card-img{
+
+height: 200px;
+
+}
+
+.img{
+    height: 500px;
+   
+   
+}
+.row p{
+    font-weight: bold;
+    font-size: 15px;
+}
+.head{
+    font-style: normal;
+}
+.text-warning{
+    color: yellow;
+}
+.info{
+ background-color: rgb(255, 251, 251);
+}
+.collection{
+    margin-bottom: 40px;
+    
+}
+.information{
+    
+    margin-bottom: 40px;
+    
+}
+.instagram{
+  margin-top: 40px;
+}
+.txt{
+    padding-left: 20px;
+}
+.lastpage{
+   background-image: url("../Images/boat.jpg");
+    background-size: 100% 100%;
+    background-color: transparent;
+    margin-top: 30px;
+      
+    height: 800px;
+    
+}
+.figure{
+    padding-top: 20px;
+ 
+}
+.para{
+    padding: 20px;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
